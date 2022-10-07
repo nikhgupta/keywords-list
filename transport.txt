@@ -1,0 +1,28 @@
+aircraft
+balloon
+blimp
+bus
+bicycle
+cable car
+car
+cart
+conveyor belt
+escalator
+glider
+hover craft
+lift
+motorbike
+parachute
+prime mover
+roller skates
+ship
+ski
+taxi
+tractor
+trailer
+train
+tram
+trishaw
+trolley
+truck
+van
